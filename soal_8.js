@@ -1,3 +1,5 @@
+//Faktorial
+
 let n = 10;
 let hasil = 1;
 for (let i = 1; i <= n; i++) {
