@@ -1,0 +1,2 @@
+# belajar_logic_mathematics_with_code_javascripts
+Belajar Matematika dasar dengan Javascripts
