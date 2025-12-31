@@ -1,3 +1,4 @@
+//Menentukan Angka Terkecil dan Terbesar dari 3 Angka
 let a = 12; b = 35476; c = -12;
 
 console.log(Math.min(a, b, c));
