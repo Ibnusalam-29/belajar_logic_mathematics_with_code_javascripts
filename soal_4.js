@@ -1,6 +1,7 @@
-let a = 4; b = 3; c = 2;
+//Operasi Matematika Dua Angka
+let a = 4; b = 3;
 
-console.log(a + b + c);
-console.log(a - b - c);
-console.log(a * b * c);
-console.log(a / b / c);
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
